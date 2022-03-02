@@ -1,3 +1,4 @@
+https://effendi.me/jazz/repo/I//jazz/repo/
 https://effendi.me/jazz/repo/I/630blues.xml
 https://effendi.me/jazz/repo/I/728.xml
 https://effendi.me/jazz/repo/I/1974%20Blues.xml
@@ -100,6 +101,7 @@ https://effendi.me/jazz/repo/I/psychedelic%20sally%20C.xml
 https://effendi.me/jazz/repo/I/sticksc.xml
 https://effendi.me/jazz/repo/I/stlouisblues.xml
 https://effendi.me/jazz/repo/I/the%20worm.xml
+https://effendi.me/jazz/repo/II//jazz/repo/
 https://effendi.me/jazz/repo/II/433.xml
 https://effendi.me/jazz/repo/II/A%20Little%20Busy.xml
 https://effendi.me/jazz/repo/II/Afrodisia.xml
@@ -364,6 +366,7 @@ https://effendi.me/jazz/repo/IV_Part-1/Ugetsu.xml
 https://effendi.me/jazz/repo/IV_Part-1/WaynesThang.xml
 https://effendi.me/jazz/repo/IV_Part-1/WineLight.xml
 https://effendi.me/jazz/repo/IV_Part-1/YardbirdSuite.xml
+https://effendi.me/jazz/repo/IV_Part-2//jazz/repo/
 https://effendi.me/jazz/repo/IV_Part-2/1612.musicxml
 https://effendi.me/jazz/repo/IV_Part-2/AllOfMe_C.musicxml
 https://effendi.me/jazz/repo/IV_Part-2/AllOfMe_F.musicxml
@@ -425,6 +428,7 @@ https://effendi.me/jazz/repo/IV_Part-2/ThereWillNeverBeAnotherYou.musicxml
 https://effendi.me/jazz/repo/IV_Part-2/ToTheTop.musicxml
 https://effendi.me/jazz/repo/IV_Part-2/WoodyNYou.musicxml
 https://effendi.me/jazz/repo/IV_Part-2/peopleMake.musicxml
+https://effendi.me/jazz/repo/V//jazz/repo/
 https://effendi.me/jazz/repo/V/1612.musicxml
 https://effendi.me/jazz/repo/V/AllOfMe_C.musicxml
 https://effendi.me/jazz/repo/V/AllOfMe_F.musicxml
