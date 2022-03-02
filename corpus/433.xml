@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="3.1">
+  <movement-title>4'33"</movement-title>
+  <identification>
+    <creator type="composer">John Cage
+Arranged: 6EQUJ5</creator>
+    <rights>©2015 APUFMusic 9/19/15</rights>
+    <encoding>
+      <software>Finale v25 for Windows</software>
+      <encoding-date>2018-04-23</encoding-date>
+      <supports attribute="new-system" element="print" type="yes" value="yes"/>
+      <supports attribute="new-page" element="print" type="yes" value="yes"/>
+      <supports element="accidental" type="yes"/>
+      <supports element="beam" type="yes"/>
+      <supports element="stem" type="yes"/>
+    </encoding>
+  </identification>
+  <defaults>
+    <scaling>
+      <millimeters>7.2319</millimeters>
+      <tenths>40</tenths>
+    </scaling>
+    <page-layout>
+      <page-height>1545</page-height>
+      <page-width>1194</page-width>
+      <page-margins type="both">
+        <left-margin>140</left-margin>
+        <right-margin>70</right-margin>
+        <top-margin>88</top-margin>
+        <bottom-margin>88</bottom-margin>
+      </page-margins>
+    </page-layout>
+    <system-layout>
+      <system-margins>
+        <left-margin>0</left-margin>
+        <right-margin>0</right-margin>
+      </system-margins>
+      <system-distance>121</system-distance>
+      <top-system-distance>70</top-system-distance>
+    </system-layout>
+    <staff-layout>
+      <staff-distance>80</staff-distance>
+    </staff-layout>
+    <appearance>
+      <line-width type="stem">1.4583</line-width>
+      <line-width type="beam">5</line-width>
+      <line-width type="staff">1.4583</line-width>
+      <line-width type="light barline">1.4583</line-width>
+      <line-width type="heavy barline">5</line-width>
+      <line-width type="leger">1.7513</line-width>
+      <line-width type="ending">1.4583</line-width>
+      <line-width type="wedge">1.4583</line-width>
+      <line-width type="enclosure">1.4583</line-width>
+      <line-width type="tuplet bracket">1.4583</line-width>
+      <note-size type="grace">60</note-size>
+      <note-size type="cue">60</note-size>
+      <distance type="hyphen">120</distance>
+      <distance type="beam">8</distance>
+      <glyph type="percussion-clef">unpitchedPercussionClef1</glyph>
+    </appearance>
+    <music-font font-family="Broadway Copyist,handwritten" font-size="20.5"/>
+    <word-font font-family="Broadway Copyist Text" font-size="12"/>
+  </defaults>
+  <credit page="1">
+    <credit-type>title</credit-type>
+    <credit-words default-x="632" default-y="1440" font-size="28" justify="center" valign="top">4'33"</credit-words>
+  </credit>
+  <credit page="1">
+    <credit-type>composer</credit-type>
+    <credit-words default-x="1127" default-y="1421" font-size="14" justify="right" valign="top" xml:space="preserve">John Cage
+Arranged: 6EQUJ5</credit-words>
+  </credit>
+  <credit page="1">
+    <credit-type>rights</credit-type>
+    <credit-words default-x="632" default-y="70" font-size="10" justify="center" valign="bottom">©2015 APUFMusic 9/19/15</credit-words>
+  </credit>
+  <credit page="1">
+    <credit-words default-x="96" default-y="1461" font-size="14" valign="top">Lead Sheet</credit-words>
+  </credit>
+  <credit page="1">
+    <credit-words default-x="335" default-y="1339" font-size="14" valign="top" xml:space="preserve">Adiago Cantible Bop
+</credit-words>
+  </credit>
+  <part-list>
+    <part-group number="1" type="start">
+      <group-symbol default-x="-5">bracket</group-symbol>
+      <group-barline>yes</group-barline>
+    </part-group>
+    <score-part id="P1">
+      <part-name>C Instruments 1</part-name>
+      <score-instrument id="P1-I1">
+        <instrument-name>SmartMusic SoftSynth</instrument-name>
+        <virtual-instrument/>
+      </score-instrument>
+      <midi-device>SmartMusic SoftSynth</midi-device>
+      <midi-instrument id="P1-I1">
+        <midi-channel>1</midi-channel>
+        <midi-bank>15489</midi-bank>
+        <midi-program>1</midi-program>
+        <volume>80</volume>
+        <pan>0</pan>
+      </midi-instrument>
+    </score-part>
+    <score-part id="P2">
+      <part-name>Bass 2</part-name>
+      <score-instrument id="P2-I2">
+        <instrument-name>SmartMusic SoftSynth</instrument-name>
+        <virtual-instrument/>
+      </score-instrument>
+      <midi-device>SmartMusic SoftSynth</midi-device>
+      <midi-instrument id="P2-I2">
+        <midi-channel>2</midi-channel>
+        <midi-bank>15489</midi-bank>
+        <midi-program>1</midi-program>
+        <volume>80</volume>
+        <pan>0</pan>
+      </midi-instrument>
+    </score-part>
+    <part-group number="1" type="stop"/>
+    <part-group number="1" type="start">
+      <group-symbol default-x="-5">bracket</group-symbol>
+      <group-barline>yes</group-barline>
+    </part-group>
+    <score-part id="P3">
+      <part-name>Eb Instruments</part-name>
+      <part-abbreviation>A. Sx.</part-abbreviation>
+      <score-instrument id="P3-I3">
+        <instrument-name>SmartMusic SoftSynth</instrument-name>
+        <instrument-sound>wind.reed.saxophone.alto</instrument-sound>
+        <virtual-instrument/>
+      </score-instrument>
+      <midi-device>SmartMusic SoftSynth</midi-device>
+      <midi-instrument id="P3-I3">
+        <midi-channel>3</midi-channel>
+        <midi-bank>15489</midi-bank>
+        <midi-program>66</midi-program>
+        <volume>80</volume>
+        <pan>0</pan>
+      </midi-instrument>
+    </score-part>
+    <score-part id="P4">
+      <part-name>Bb Instruments</part-name>
+      <part-abbreviation>T. Sx.</part-abbreviation>
+      <score-instrument id="P4-I4">
+        <instrument-name>SmartMusic SoftSynth</instrument-name>
+        <instrument-sound>wind.reed.saxophone.tenor</instrument-sound>
+        <virtual-instrument/>
+      </score-instrument>
+      <midi-device>SmartMusic SoftSynth</midi-device>
+      <midi-instrument id="P4-I4">
+        <midi-channel>4</midi-channel>
+        <midi-bank>15489</midi-bank>
+        <midi-program>67</midi-program>
+        <volume>80</volume>
+        <pan>0</pan>
+      </midi-instrument>
+    </score-part>
+    <part-group number="1" type="stop"/>
+    <score-part id="P5">
+      <part-name>Percussion</part-name>
+      <part-abbreviation>Perc.</part-abbreviation>
+      <score-instrument id="P5-I5">
+        <instrument-name>SmartMusic SoftSynth</instrument-name>
+        <instrument-sound>drum.group</instrument-sound>
+        <ensemble/>
+        <virtual-instrument/>
+      </score-instrument>
+      <midi-device>SmartMusic SoftSynth</midi-device>
+      <midi-instrument id="P5-I5">
+        <midi-channel>5</midi-channel>
+        <midi-bank>15361</midi-bank>
+        <midi-program>1</midi-program>
+        <volume>80</volume>
+        <pan>0</pan>
+      </midi-instrument>
+    </score-part>
+  </part-list>
+  <!--=========================================================-->
+  <part id="P1">
+    <measure number="1" width="913">
+      <print>
+        <system-layout>
+          <system-margins>
+            <left-margin>70</left-margin>
+            <right-margin>0</right-margin>
+          </system-margins>
+          <top-system-distance>172</top-system-distance>
+        </system-layout>
+        <measure-numbering>none</measure-numbering>
+      </print>
+      <attributes>
+        <divisions>8</divisions>
+        <key>
+          <fifths>0</fifths>
+          <mode>major</mode>
+        </key>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      <direction directive="yes" placement="above">
+        <direction-type>
+          <metronome default-y="108" halign="left" relative-x="-216">
+            <beat-unit>quarter</beat-unit>
+            <per-minute>305.291</per-minute>
+          </metronome>
+        </direction-type>
+        <sound tempo="305"/>
+      </direction>
+      <direction placement="below">
+        <direction-type>
+          <dynamics default-y="-80" halign="center">
+            <sffz/>
+          </dynamics>
+        </direction-type>
+      </direction>
+      <direction directive="yes" placement="below">
+        <direction-type>
+          <symbol default-y="-232" font-size="10.25" relative-x="515">noteheadWhole</symbol>
+          <words>=1.38064852 × 10-23 m2 kg s-2 K-1</words>
+        </direction-type>
+        <sound tempo="4"/>
+      </direction>
+      <direction directive="yes" placement="below">
+        <direction-type>
+          <words default-y="-70" font-size="15.4" relative-x="487">Add Bicycle </words>
+          <symbol font-size="10.25">note16thUp</symbol>
+          <words>.</words>
+          <words font-size="12">+</words>
+          <symbol font-size="10.25">noteHalfUp</symbol>
+          <words font-size="12">+</words>
+          <symbol font-size="10.25">noteheadWhole</symbol>
+          <symbol>noteheadWhole</symbol>
+          <words font-size="12">=6.0223*10</words>
+          <words font-size="12">**23</words>
+        </direction-type>
+        <sound tempo="2"/>
+      </direction>
+      <direction placement="above">
+        <direction-type>
+          <words default-y="32" relative-x="-10">Accel.</words>
+        </direction-type>
+        <offset>8</offset>
+      </direction>
+      <direction placement="above">
+        <direction-type>
+          <words default-y="33" relative-x="-25">Rit.</words>
+        </direction-type>
+        <offset>16</offset>
+      </direction>
+      <direction placement="above">
+        <direction-type>
+          <words default-y="28" relative-x="93">a Tempo</words>
+        </direction-type>
+        <offset>16</offset>
+      </direction>
+      <note>
+        <rest measure="yes"/>
+        <duration>32</duration>
+        <voice>1</voice>
+      </note>
+      <direction placement="above">
+        <direction-type>
+          <words default-y="23" relative-x="-71">DO NOT MOVE</words>
+        </direction-type>
+      </direction>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+  <!--=========================================================-->
+  <part id="P2">
+    <measure number="1" width="913">
+      <print>
+        <measure-numbering>none</measure-numbering>
+      </print>
+      <attributes>
+        <divisions>2</divisions>
+        <key>
+          <fifths>0</fifths>
+          <mode>major</mode>
+        </key>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>F</sign>
+          <line>4</line>
+        </clef>
+      </attributes>
+      <direction placement="below">
+        <direction-type>
+          <dynamics default-y="-80" halign="center">
+            <sfpp/>
+          </dynamics>
+        </direction-type>
+      </direction>
+      <direction>
+        <direction-type>
+          <words default-x="120" default-y="33" font-size="14" valign="top">Count to 4'33" (273 seconds)</words>
+        </direction-type>
+      </direction>
+      <note>
+        <rest measure="yes"/>
+        <duration>8</duration>
+        <voice>1</voice>
+      </note>
+      <direction placement="above">
+        <direction-type>
+          <words default-y="16" relative-x="-93">DO NOT MOVE</words>
+        </direction-type>
+      </direction>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+  <!--=========================================================-->
+  <part id="P3">
+    <measure number="1" width="913">
+      <print>
+        <measure-numbering>system</measure-numbering>
+      </print>
+      <attributes>
+        <divisions>8</divisions>
+        <key>
+          <fifths>3</fifths>
+          <mode>major</mode>
+        </key>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+        <transpose>
+          <diatonic>-5</diatonic>
+          <chromatic>-9</chromatic>
+        </transpose>
+      </attributes>
+      <direction placement="below">
+        <direction-type>
+          <dynamics default-y="-80" halign="center">
+            <pppp/>
+          </dynamics>
+        </direction-type>
+        <sound dynamics="11"/>
+      </direction>
+      <direction placement="above">
+        <direction-type>
+          <words default-y="33" enclosure="bracket" relative-x="-7">bucket</words>
+        </direction-type>
+        <offset>8</offset>
+      </direction>
+      <direction placement="above">
+        <direction-type>
+          <words default-y="8" relative-x="-13">Like A Dirgible </words>
+        </direction-type>
+        <offset>16</offset>
+      </direction>
+      <note>
+        <rest measure="yes"/>
+        <duration>32</duration>
+        <voice>1</voice>
+      </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+  <!--=========================================================-->
+  <part id="P4">
+    <measure number="1" width="913">
+      <print>
+        <measure-numbering>none</measure-numbering>
+      </print>
+      <attributes>
+        <divisions>8</divisions>
+        <key>
+          <fifths>2</fifths>
+          <mode>major</mode>
+        </key>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+        <transpose>
+          <diatonic>-1</diatonic>
+          <chromatic>-2</chromatic>
+          <octave-change>-1</octave-change>
+        </transpose>
+      </attributes>
+      <direction placement="below">
+        <direction-type>
+          <dynamics default-y="-80" halign="center">
+            <ffff/>
+          </dynamics>
+        </direction-type>
+        <sound dynamics="141"/>
+      </direction>
+      <direction placement="above">
+        <direction-type>
+          <words default-y="13" enclosure="bracket" relative-x="-43">open</words>
+        </direction-type>
+        <offset>8</offset>
+      </direction>
+      <direction placement="above">
+        <direction-type>
+          <words default-y="13" enclosure="bracket">harmon w/stem</words>
+        </direction-type>
+        <offset>16</offset>
+      </direction>
+      <note>
+        <rest measure="yes"/>
+        <duration>32</duration>
+        <voice>1</voice>
+      </note>
+      <direction placement="above">
+        <direction-type>
+          <words default-y="32" relative-x="-86">DO NOT MOVE</words>
+        </direction-type>
+      </direction>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+  <!--=========================================================-->
+  <part id="P5">
+    <measure number="1" width="913">
+      <print>
+        <measure-numbering>system</measure-numbering>
+      </print>
+      <attributes>
+        <divisions>8</divisions>
+        <key>
+          <fifths>0</fifths>
+          <mode>major</mode>
+        </key>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>percussion</sign>
+        </clef>
+        <measure-style>
+          <slash type="start" use-stems="no"/>
+        </measure-style>
+      </attributes>
+      <direction placement="below">
+        <direction-type>
+          <dynamics default-y="-80" halign="center">
+            <sffz/>
+          </dynamics>
+        </direction-type>
+      </direction>
+      <direction placement="below">
+        <direction-type>
+          <dynamics default-y="-80" halign="center">
+            <sffz/>
+          </dynamics>
+        </direction-type>
+        <offset>8</offset>
+      </direction>
+      <direction placement="below">
+        <direction-type>
+          <dynamics default-y="-80" halign="center">
+            <ff/>
+          </dynamics>
+        </direction-type>
+        <offset>16</offset>
+        <sound dynamics="112"/>
+      </direction>
+      <direction>
+        <direction-type>
+          <words default-x="118" default-y="32" font-size="14" valign="top">Set Backup Stopwatch to 4'33", In the Event that the Bassist loses count</words>
+        </direction-type>
+      </direction>
+      <note>
+        <rest measure="yes"/>
+        <duration>32</duration>
+        <voice>1</voice>
+      </note>
+      <direction placement="below">
+        <direction-type>
+          <dynamics default-y="-80" halign="center">
+            <f/>
+          </dynamics>
+        </direction-type>
+        <offset>-8</offset>
+        <sound dynamics="98"/>
+      </direction>
+      <direction placement="above">
+        <direction-type>
+          <words default-y="32" relative-x="-86">DO NOT MOVE</words>
+        </direction-type>
+      </direction>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+  <!--=========================================================-->
+</score-partwise>
