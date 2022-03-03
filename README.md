@@ -1,2 +1,2 @@
 # master_thesis
-Identification of harmonic structure from musical audios
+Identificação de encadeamento harmônico a partir de áudios musicais
