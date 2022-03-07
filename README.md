@@ -11,14 +11,16 @@ A ideia do presente projeto é, partindo de áudios de canções como _input_, c
 Etapa crucial e desafiadora para o desenvolvimento do modelo. Isso porque, hoje em dia, não existe uma base de dados robusta que contenha áudios de canções juntamente com sua harmonia sincronizada. Por conta disso, a opção mais prática que encontramos foi trabalhar a partir de arquivos xml de música, que contêm explicitamente informações a respeito de andamento, melodia, harmonia, tempo, compasso e etc. Assim, conseguimos utilizar estes arquivos para gerar áudios sinteticamente, com a vantagem de sabermos a sequência exata de acordes ali presente, bem como os momentos em que a harmonia muda. 
 
 #### Desenvolvimento de rotinas de extração
+Esta etapa consiste num estudo aprofundado de features musicais que conseguimos extrair dos arquivos de audio. Será necessário entender que tipos de informação nos ajudam mais na tarefa de reconhecimento de harmonia.
 
 #### Ajustes de técnicas de processamento de sinal
 
-#### Treinamento do modelo
+#### Desenvolvimento e treinamento do modelo
 
 #### Otimização de parâmetros
 
 #### Construção de base de dados anotados
 
 #### Validação das análises
+Finalmente, o último passo será aplicar os métodos desenvolvidos em áudios de gravações reais, realizada por músicos. Eventualmente, precisaremos retornar e repensar em alguns dos pontos citados acima.
 
