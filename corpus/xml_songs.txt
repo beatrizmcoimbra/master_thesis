@@ -193,7 +193,6 @@ https://effendi.me/jazz/repo/II/dat%20dere.xml
 https://effendi.me/jazz/repo/II/ghana.xml
 https://effendi.me/jazz/repo/II/herzog.xml
 https://effendi.me/jazz/repo/II/sambop.xml
-https://effendi.me/jazz/repo/III//jazz/repo/
 https://effendi.me/jazz/repo/III/8CountsForRita.xml
 https://effendi.me/jazz/repo/III/AfterYou'veGone.xml
 https://effendi.me/jazz/repo/III/AloneIntheMorning.xml
@@ -303,7 +302,6 @@ https://effendi.me/jazz/repo/III/WayBackHome.xml
 https://effendi.me/jazz/repo/III/WhenTheSunComesDown.xml
 https://effendi.me/jazz/repo/III/WorkSongMingus.xml
 https://effendi.me/jazz/repo/III/YoungRabbitsThe.xml
-https://effendi.me/jazz/repo/IV_Part-1//jazz/repo/
 https://effendi.me/jazz/repo/IV_Part-1/ALaMode.xml
 https://effendi.me/jazz/repo/IV_Part-1/Agogo.xml
 https://effendi.me/jazz/repo/IV_Part-1/AirmailSpecial.xml
