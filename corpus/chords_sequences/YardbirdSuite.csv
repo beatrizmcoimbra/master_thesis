@@ -1,9 +1,9 @@
 Measure,YardbirdSuite,Time
 9,Cmaj7,16.0
 10,Fmin7,18.0
-10,B-17,19.0
+10,Bb7,19.0
 11,Cmaj7,20.0
-11,B-17,21.0
+11,Bb7,21.0
 12,A7,22.0
 13,D7,24.0
 14,G7,26.0
@@ -16,7 +16,7 @@ Measure,YardbirdSuite,Time
 19,Cmaj7,36.0
 19,B7,37.0
 20,Emin7,38.0
-21,F1min7,40.0
+21,F#min7(b5),40.0
 21,B7,41.0
 22,Emin7,42.0
 23,A7,44.0
@@ -28,9 +28,9 @@ Measure,YardbirdSuite,Time
 27,G7,53.0
 28,Cmaj7,54.0
 29,Fmin7,56.0
-29,B-17,57.0
+29,Bb7,57.0
 30,Cmaj7,58.0
-30,B-17,59.0
+30,Bb7,59.0
 31,A7,60.0
 32,D7,62.0
 33,Dmin7,64.0

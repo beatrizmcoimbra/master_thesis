@@ -1,7 +1,7 @@
 Measure,TakeTheATrain,Time
 1,C6,0.0
 2,Cmaj7,2.0
-3,D7,4.0
+3,D7(b5),4.0
 5,Dmin7,8.0
 6,G7,10.0
 7,Cmaj7,12.0
@@ -13,9 +13,9 @@ Measure,TakeTheATrain,Time
 14,D7,26.0
 16,Dmin7,30.0
 17,G7,32.0
-17,G7,33.0
+17,G7(b9),33.0
 18,Cmaj7,34.0
-20,D7,38.0
+20,D7(b5),38.0
 22,Dmin7,42.0
 23,G7,44.0
 24,Cmaj7,46.0

@@ -1,6 +1,6 @@
 Measure,HustlerTheII,Time
 1,Dmin7,0.0
-2,C1min7,2.0
+2,C#min7,2.0
 3,Cmin7,4.0
 4,Bmin7,6.0
 7,Dmin7,12.0
@@ -8,7 +8,7 @@ Measure,HustlerTheII,Time
 16,G,30.0
 17,G7,32.0
 18,G,34.0
-19,B-1,36.0
+19,Bb,36.0
 19,F,37.0
 20,G,38.0
 20,F,39.0
@@ -17,17 +17,17 @@ Measure,HustlerTheII,Time
 21,Dmin7,41.333333333333336
 22,Dmin7,42.0
 26,Dmin7,50.0
-27,C1min7,52.0
+27,C#min7,52.0
 28,Cmin7,54.0
 29,Bmin7,56.0
 30,Dmin7,58.0
-31,C1min7,60.0
+31,C#min7,60.0
 32,Cmin7,62.0
 33,Bmin7,64.0
 34,Dmin7,66.0
 38,Dmin7,74.0
 42,G,82.0
-46,B-1,90.0
+46,Bb,90.0
 46,F,91.0
 47,G,92.0
 47,F,93.0

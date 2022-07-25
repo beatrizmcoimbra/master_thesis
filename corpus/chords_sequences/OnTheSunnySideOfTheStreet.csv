@@ -3,7 +3,7 @@ Measure,OnTheSunnySideOfTheStreet,Time
 2,E7,2.0
 3,F6,4.0
 4,G7,6.0
-4,G1dim7,7.0
+4,G#dim7,7.0
 5,Amin7,8.0
 6,D7,10.0
 7,Dmin7,12.0
@@ -13,9 +13,9 @@ Measure,OnTheSunnySideOfTheStreet,Time
 9,Dmin7,16.0
 9,G7,16.666666666666668
 9,Cmaj7,17.333333333333332
-10,B-19,18.0
+10,Bb9,18.0
 10,Amin7,18.666666666666668
-10,A-17,19.333333333333332
+10,Ab7,19.333333333333332
 11,Gmin7,20.0
 12,C7,22.0
 13,Fmaj7,24.0
@@ -29,7 +29,7 @@ Measure,OnTheSunnySideOfTheStreet,Time
 20,E7,38.0
 21,F6,40.0
 22,G7,42.0
-22,G1dim7,43.0
+22,G#dim7,43.0
 23,Amin7,44.0
 24,D7,46.0
 25,Dmin7,48.0

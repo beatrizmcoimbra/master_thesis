@@ -5,7 +5,7 @@ Measure,FlyMeToTheMoon,Time
 4,Cmaj7,6.0
 4,C7,7.0
 5,Fmaj7,8.0
-6,Bminor-seventh,10.0
+6,Bminor-seventh(b5),10.0
 7,E7,12.0
 8,Amin7,14.0
 8,A7,15.0
@@ -17,7 +17,7 @@ Measure,FlyMeToTheMoon,Time
 13,Dmin7,24.0
 14,G7,26.0
 15,Cmaj7,28.0
-16,Bminor-seventh,30.0
+16,Bminor-seventh(b5),30.0
 16,E7,31.0
 17,Amin7,32.0
 18,Dmin7,34.0
@@ -25,7 +25,7 @@ Measure,FlyMeToTheMoon,Time
 20,Cmaj7,38.0
 20,C7,39.0
 21,Fmaj7,40.0
-22,Bminor-seventh,42.0
+22,Bminor-seventh(b5),42.0
 23,E7,44.0
 24,Amin7,46.0
 24,A7,47.0
@@ -36,7 +36,7 @@ Measure,FlyMeToTheMoon,Time
 29,Dmin7,56.0
 30,G7,58.0
 31,Cmaj7,60.0
-32,Bminor-seventh,62.0
+32,Bminor-seventh(b5),62.0
 32,E7,63.0
 33,Emin7,64.0
 34,A,66.0

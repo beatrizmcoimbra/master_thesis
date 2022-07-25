@@ -3,14 +3,14 @@ Measure,Chicago Seranade,Time
 3,G7,4.0
 4,C7,6.0
 5,F7,8.0
-6,B-1maj7,10.0
-7,A7,12.0
+6,Bbmaj7,10.0
+7,A7(#9),12.0
 8,Dmin7,14.0
-9,Dmajor-minor,16.0
+9,Dmajor-minor(09),16.0
 10,G7,18.0
 11,C7,20.0
 12,F7,22.0
-13,B-1maj7,24.0
+13,Bbmaj7,24.0
 14,Bmin7,26.0
 15,E7,28.0
 16,A7,30.0
@@ -21,7 +21,7 @@ Measure,Chicago Seranade,Time
 21,G7,40.0
 22,C7,42.0
 23,F7,44.0
-24,B-1maj7,46.0
+24,Bbmaj7,46.0
 25,Bmin7,48.0
 26,A7,50.0
 27,D7,52.0
@@ -29,7 +29,7 @@ Measure,Chicago Seranade,Time
 29,C7,56.0
 30,F7,58.0
 31,B7,60.0
-32,B-17,62.0
+32,Bb7,62.0
 33,A7,64.0
 34,Dmin7,66.0
 35,Dmin7,68.0

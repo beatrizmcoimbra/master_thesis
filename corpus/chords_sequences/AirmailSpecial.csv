@@ -4,8 +4,8 @@ Measure,AirmailSpecial,Time
 11,Cdim7,20.0
 13,Cdim7,24.0
 13,Bdim7,25.0
-14,B-1dim7,26.0
-15,A-17,28.0
+14,Bbdim7,26.0
+15,Ab7,28.0
 16,G7,30.0
 17,C,32.0
 25,C,48.0
@@ -19,7 +19,7 @@ Measure,AirmailSpecial,Time
 29,C,56.0
 29,C7,57.0
 30,F,58.0
-30,F1dim7,59.0
+30,F#dim7,59.0
 31,C/G,60.0
 32,C,62.0
 33,Cdim7,64.0

@@ -4,8 +4,8 @@ Measure,Mr Syms,Time
 2,Bmaj7,2.0
 2,Gdim,3.0
 3,C,4.0
-3,D-1,5.0
-4,B-1,6.0
+3,Db,5.0
+4,Bb,6.0
 4,Gdim,7.0
 5,Fmin7,8.0
 6,Fmin7,10.0
@@ -14,7 +14,7 @@ Measure,Mr Syms,Time
 8,Bmaj7,14.0
 8,Gdim,15.0
 9,G7,16.0
-9,D-1,17.0
+9,Db,17.0
 10,A6,18.0
 10,B7,19.0
 11,Emaj7,20.0
@@ -29,5 +29,5 @@ Measure,Mr Syms,Time
 22,G7,42.0
 23,C,44.0
 23,D,45.0
-24,E-1,46.0
+24,Eb,46.0
 24,G,47.0

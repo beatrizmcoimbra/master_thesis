@@ -8,11 +8,11 @@ Measure,SoulVillage,Time
 9,Fmin7,16.0
 10,Gmin7,18.0
 11,Gmin7,20.0
-11,G-1dim7,21.0
+11,Gbdim7,21.0
 12,Fmin7,22.0
 12,Cmin7,23.0
 13,Gmin7,24.0
-13,G-1dim7,25.0
+13,Gbdim7,25.0
 14,Fmin7,26.0
 14,Cmin7,27.0
 15,Cmin7,28.0
@@ -27,10 +27,10 @@ Measure,SoulVillage,Time
 39,Fmin7,76.0
 40,Gmin,78.0
 41,Gmin7,80.0
-41,G-1dim7,81.0
+41,Gbdim7,81.0
 42,Fmin7,82.0
 42,Cmin7,83.0
 43,Gmin7,84.0
-43,G-1dim7,85.0
+43,Gbdim7,85.0
 44,Fmin7,86.0
 44,Cmin7,87.0

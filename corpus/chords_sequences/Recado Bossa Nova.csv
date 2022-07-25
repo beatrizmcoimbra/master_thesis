@@ -3,8 +3,8 @@ Measure,Recado Bossa Nova,Time
 9,Gmin7,16.0
 10,Gmin7,18.0
 11,D7,20.0
-12,D7,22.0
-13,Dmin7,24.0
+12,D7(#9),22.0
+13,Dmin7(b5),24.0
 14,G7,26.0
 15,Cmin7,28.0
 16,Cmin7,30.0
@@ -15,12 +15,12 @@ Measure,Recado Bossa Nova,Time
 21,A7,40.0
 22,A7,42.0
 23,D7,44.0
-24,D7,46.0
+24,D7(#9),46.0
 25,Gmin7,48.0
 26,Gmin7,50.0
 27,D7,52.0
 28,D7,54.0
-29,Dmin7,56.0
+29,Dmin7(b5),56.0
 30,G7,58.0
 31,Cmin7,60.0
 32,Cmin,62.0
@@ -28,7 +28,7 @@ Measure,Recado Bossa Nova,Time
 34,D7,66.0
 35,Gmin7,68.0
 36,Gmin7,70.0
-37,A-17,72.0
+37,Ab7(#9),72.0
 38,D7,74.0
 39,Gmin7,76.0
 40,Gmin7,78.0
@@ -44,7 +44,7 @@ Measure,Recado Bossa Nova,Time
 50,Gmin7,98.0
 51,D7,100.0
 52,D7,102.0
-53,Dmin7,104.0
+53,Dmin7(b5),104.0
 54,G7,106.0
 55,Cmin7,108.0
 56,Cmin,110.0
