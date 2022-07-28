@@ -1,4 +1,4 @@
-Measure,Soul Power74,Time
-5,Dmin7,8.0
-33,Bb9,64.0
-45,Dmin7,88.0
+Measure,Soul Power74,chord_note,Time
+5,Dmin7,D,8.0
+33,Bb9,Bb,64.0
+45,Dmin7,D,88.0

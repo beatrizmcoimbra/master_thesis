@@ -1,4 +1,4 @@
-Measure,Spain,Time
-31,Bsus,60.0
-42,Emin7,82.0
-44,A7,86.0
+Measure,Spain,chord_note,Time
+31,Bsus,B,60.0
+42,Emin7,E,82.0
+44,A7,A,86.0

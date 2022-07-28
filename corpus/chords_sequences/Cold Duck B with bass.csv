@@ -1,16 +1,16 @@
-Measure,Cold Duck B with bass,Time
-1,F7,0.0
-2,Bb7,2.0
-3,F7,4.0
-4,Bb7,6.0
-5,F7,8.0
-6,Bb7,10.0
-7,F7,12.0
-8,Bb7,14.0
-9,F7,16.0
-10,Bb7,18.0
-11,F7,20.0
-12,Bb7,22.0
-13,Dbmaj13(#11),24.0
-14,Ebmaj13(#11),26.0
-14,F7,27.0
+Measure,Cold Duck B with bass,chord_note,Time
+1,F7,F,0.0
+2,Bb7,Bb,2.0
+3,F7,F,4.0
+4,Bb7,Bb,6.0
+5,F7,F,8.0
+6,Bb7,Bb,10.0
+7,F7,F,12.0
+8,Bb7,Bb,14.0
+9,F7,F,16.0
+10,Bb7,Bb,18.0
+11,F7,F,20.0
+12,Bb7,Bb,22.0
+13,Dbmaj13(#11),Db,24.0
+14,Ebmaj13(#11),Eb,26.0
+14,F7,F,27.0

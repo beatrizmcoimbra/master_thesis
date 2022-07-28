@@ -1,15 +1,15 @@
-Measure,Somethin' Special,Time
-2,Gsus,2.0
-2,Gmin7,3.0
-4,Gsus,6.0
-4,Gmin7,7.0
-6,Csus,10.0
-6,Cmin7,11.0
-8,Gsus,14.0
-8,Gmin7,15.0
-10,A7,18.0
-12,D7,22.0
-14,Gmin7,26.0
-15,C7,28.0
-16,F7,30.0
-17,D7,32.0
+Measure,Somethin' Special,chord_note,Time
+2,Gsus,G,2.0
+2,Gmin7,G,3.0
+4,Gsus,G,6.0
+4,Gmin7,G,7.0
+6,Csus,C,10.0
+6,Cmin7,C,11.0
+8,Gsus,G,14.0
+8,Gmin7,G,15.0
+10,A7,A,18.0
+12,D7,D,22.0
+14,Gmin7,G,26.0
+15,C7,C,28.0
+16,F7,F,30.0
+17,D7,D,32.0

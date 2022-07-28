@@ -1,7 +1,7 @@
-Measure,Back at the Chicken Shack,Time
-1,F7,0.0
-5,Bb7,8.0
-7,F7,12.0
-9,C7,16.0
-10,Bb7,18.0
-11,F7,20.0
+Measure,Back at the Chicken Shack,chord_note,Time
+1,F7,F,0.0
+5,Bb7,Bb,8.0
+7,F7,F,12.0
+9,C7,C,16.0
+10,Bb7,Bb,18.0
+11,F7,F,20.0

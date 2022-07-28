@@ -1,7 +1,7 @@
-Measure,Comin' Home Baby,Time
-1,Gmin7,0.0
-5,Cmin7,8.0
-13,Bb7,24.0
-14,A7,26.0
-14,Ab7,27.0
-15,Gmin7,28.0
+Measure,Comin' Home Baby,chord_note,Time
+1,Gmin7,G,0.0
+5,Cmin7,C,8.0
+13,Bb7,Bb,24.0
+14,A7,A,26.0
+14,Ab7,Ab,27.0
+15,Gmin7,G,28.0

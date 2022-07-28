@@ -1,17 +1,17 @@
-Measure,Lovely is Today,Time
-1,Emin7,0.0
-2,Emin7,2.0
-3,Eb7,4.0
-4,Eb7,6.0
-5,Emin7/D,8.0
-6,Emin7/D,10.0
-7,Dbmin7,12.0
-8,Dbmin7,14.0
-9,Cmin7,16.0
-10,Cmin7,18.0
-11,D7,20.0
-12,D7,22.0
-13,Ebmin7,24.0
-14,F7,26.0
-15,G7,28.0
-16,G7,30.0
+Measure,Lovely is Today,chord_note,Time
+1,Emin7,E,0.0
+2,Emin7,E,2.0
+3,Eb7,Eb,4.0
+4,Eb7,Eb,6.0
+5,Emin7/D,E,8.0
+6,Emin7/D,E,10.0
+7,Dbmin7,Db,12.0
+8,Dbmin7,Db,14.0
+9,Cmin7,C,16.0
+10,Cmin7,C,18.0
+11,D7,D,20.0
+12,D7,D,22.0
+13,Ebmin7,Eb,24.0
+14,F7,F,26.0
+15,G7,G,28.0
+16,G7,G,30.0

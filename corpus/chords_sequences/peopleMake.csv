@@ -1,6 +1,6 @@
-Measure,peopleMake,Time
-1,Fmin7,0.0
-29,Fmin7,56.0
-30,Bb7,58.0
-31,Fmin7,60.0
-32,Bb7,62.0
+Measure,peopleMake,chord_note,Time
+1,Fmin7,F,0.0
+29,Fmin7,F,56.0
+30,Bb7,Bb,58.0
+31,Fmin7,F,60.0
+32,Bb7,Bb,62.0

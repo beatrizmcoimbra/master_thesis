@@ -1,13 +1,13 @@
-Measure,Spontaneous Combustion,Time
-2,Bb7,2.0
-3,Bb7,4.0
-4,Bb7,6.0
-5,Bb7,8.0
-6,Eb7,10.0
-7,Eb7,12.0
-8,Eb7,14.0
-9,Eb7,16.0
-10,Cmin7,18.0
-11,F7,20.0
-12,F7,22.0
-13,F7,24.0
+Measure,Spontaneous Combustion,chord_note,Time
+2,Bb7,Bb,2.0
+3,Bb7,Bb,4.0
+4,Bb7,Bb,6.0
+5,Bb7,Bb,8.0
+6,Eb7,Eb,10.0
+7,Eb7,Eb,12.0
+8,Eb7,Eb,14.0
+9,Eb7,Eb,16.0
+10,Cmin7,C,18.0
+11,F7,F,20.0
+12,F7,F,22.0
+13,F7,F,24.0

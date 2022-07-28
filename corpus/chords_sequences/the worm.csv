@@ -1,11 +1,11 @@
-Measure,the worm,Time
-5,Bb7,8.0
-6,Eb7,10.0
-7,Bb7,12.0
-8,Eb7,14.0
-14,Bb7,26.0
-15,Eb7,28.0
-16,Bb7,30.0
-17,Eb7,32.0
-18,Bb7,34.0
-19,Eb7,36.0
+Measure,the worm,chord_note,Time
+5,Bb7,Bb,8.0
+6,Eb7,Eb,10.0
+7,Bb7,Bb,12.0
+8,Eb7,Eb,14.0
+14,Bb7,Bb,26.0
+15,Eb7,Eb,28.0
+16,Bb7,Bb,30.0
+17,Eb7,Eb,32.0
+18,Bb7,Bb,34.0
+19,Eb7,Eb,36.0

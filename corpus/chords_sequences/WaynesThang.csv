@@ -1,5 +1,5 @@
-Measure,WaynesThang,Time
-1,Emin7,0.0
-5,Cmaj7,8.0
-9,B7,16.0
-13,Emin7,24.0
+Measure,WaynesThang,chord_note,Time
+1,Emin7,E,0.0
+5,Cmaj7,C,8.0
+9,B7,B,16.0
+13,Emin7,E,24.0

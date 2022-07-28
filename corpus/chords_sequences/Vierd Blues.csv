@@ -1,17 +1,17 @@
-Measure,Vierd Blues,Time
-2,Bb7,2.0
-3,Eb7,4.0
-4,Bb7,6.0
-5,Bb7,8.0
-6,Eb7,10.0
-7,Eb7,12.0
-8,Bb7,14.0
-9,G7,16.0
-10,Cmin7,18.0
-11,F7(#9),20.0
-12,Bb7,22.0
-13,Cmin,24.0
-13,F,25.0
-14,Bb7,26.0
-15,Cmin,28.0
-15,F,29.0
+Measure,Vierd Blues,chord_note,Time
+2,Bb7,Bb,2.0
+3,Eb7,Eb,4.0
+4,Bb7,Bb,6.0
+5,Bb7,Bb,8.0
+6,Eb7,Eb,10.0
+7,Eb7,Eb,12.0
+8,Bb7,Bb,14.0
+9,G7,G,16.0
+10,Cmin7,C,18.0
+11,F7(#9),F,20.0
+12,Bb7,Bb,22.0
+13,Cmin,C,24.0
+13,F,F,25.0
+14,Bb7,Bb,26.0
+15,Cmin,C,28.0
+15,F,F,29.0

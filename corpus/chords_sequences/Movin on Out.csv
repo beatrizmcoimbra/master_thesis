@@ -1,10 +1,10 @@
-Measure,Movin on Out,Time
-2,Abmin7,2.0
-2,Bbmin7,3.0
-3,Abmin7,4.0
-4,Abmin7,6.0
-4,Bbmin7,7.0
-5,Abmin7,8.0
-6,Abmin7,10.0
-6,Bbmin7,11.0
-7,Abmin7,12.0
+Measure,Movin on Out,chord_note,Time
+2,Abmin7,Ab,2.0
+2,Bbmin7,Bb,3.0
+3,Abmin7,Ab,4.0
+4,Abmin7,Ab,6.0
+4,Bbmin7,Bb,7.0
+5,Abmin7,Ab,8.0
+6,Abmin7,Ab,10.0
+6,Bbmin7,Bb,11.0
+7,Abmin7,Ab,12.0

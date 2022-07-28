@@ -1,5 +1,5 @@
-Measure,GreasyGBass,Time
-65,Gmin7,128.0
-66,Gmin,130.0
-67,C7,132.0
-68,C7,134.0
+Measure,GreasyGBass,chord_note,Time
+65,Gmin7,G,128.0
+66,Gmin,G,130.0
+67,C7,C,132.0
+68,C7,C,134.0

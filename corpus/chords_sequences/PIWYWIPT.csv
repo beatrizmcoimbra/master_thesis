@@ -1,3 +1,3 @@
-Measure,PIWYWIPT,Time
-1,C7,0.0
-3,C7,4.0
+Measure,PIWYWIPT,chord_note,Time
+1,C7,C,0.0
+3,C7,C,4.0

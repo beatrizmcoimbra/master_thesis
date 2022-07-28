@@ -1,7 +1,7 @@
-Measure,Grand Strut,Time
-2,Amin7,1.5
-6,F7,7.5
-10,D7,13.5
-12,C,16.5
-13,Bb,18.0
-14,Amin7,19.5
+Measure,Grand Strut,chord_note,Time
+2,Amin7,A,1.5
+6,F7,F,7.5
+10,D7,D,13.5
+12,C,C,16.5
+13,Bb,Bb,18.0
+14,Amin7,A,19.5

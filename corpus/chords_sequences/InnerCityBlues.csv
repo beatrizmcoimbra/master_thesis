@@ -1,6 +1,6 @@
-Measure,InnerCityBlues,Time
-4,Ebmin7,6.0
-12,Ab7,22.0
-16,Ebmin7,30.0
-28,Ab7,54.0
-32,Ebmin7,62.0
+Measure,InnerCityBlues,chord_note,Time
+4,Ebmin7,Eb,6.0
+12,Ab7,Ab,22.0
+16,Ebmin7,Eb,30.0
+28,Ab7,Ab,54.0
+32,Ebmin7,Eb,62.0

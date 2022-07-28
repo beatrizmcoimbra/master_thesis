@@ -1,7 +1,7 @@
-Measure,MrClean,Time
-1,Fmin7,0.0
-5,Fmin7,8.0
-6,F7,10.0
-9,Fmin7,16.0
-13,F,24.0
-16,C7,30.0
+Measure,MrClean,chord_note,Time
+1,Fmin7,F,0.0
+5,Fmin7,F,8.0
+6,F7,F,10.0
+9,Fmin7,F,16.0
+13,F,F,24.0
+16,C7,C,30.0
