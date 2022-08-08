@@ -1,0 +1,34 @@
+csv_test = pd.read_csv('../corpus/chords_sequences/Soulville.csv')
+
+y_test, sr_test = librosa.load('../../big_corpus/wav_music21/Soulville.wav')
+
+# convertendo pra segundos
+segs = np.linspace(0,
+                   len(y_test)/sr_test, 
+                   num=len(y_test))
+
+df_test = pd.DataFrame({'seconds':segs, 'signal': y_test})
+
+
+# testando o exemplo do sol menor, que está dando problema
+chord = csv_test.iloc[12]['Soulville']
+
+if 12 != len(csv_test) - 1:
+    cut = csv_test.iloc[12]['Time']
+    cut_forw = csv_test.iloc[12+1]['Time'] # o acorde dura até o instante em que entra o acorde seguinte
+    df_cut = df_test[(df_test.seconds > cut) & (df_test.seconds < cut_forw)]            
+
+else:
+    cut = csv_test.iloc[12]['Time']
+    df_cut = df_test[df_test.seconds > cut]
+
+
+N = len(df_cut['signal'].values)
+chroma = librosa.feature.chroma_stft(y=df_cut['signal'].values, 
+                                        sr=sr_test, 
+                                        tuning=0, 
+                                        norm=None, 
+                                        hop_length=N, 
+                                        n_fft=N)
+
+chroma
