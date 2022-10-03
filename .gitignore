@@ -1,3 +1,6 @@
 *.wav
 *.mp3
+*.ogg
+*.mid
+*.midi
 .ipynb_checkpoints
